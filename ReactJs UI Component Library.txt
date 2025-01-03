@@ -1,0 +1,20 @@
+primereact
+https://primereact.org/installation/
+
+
+infragistics
+https://www.infragistics.com/products/ignite-ui-react/react/components/grids/grid/live-data
+
+
+nextui
+https://nextui.org/
+
+Grommet 
+https://v2.grommet.io/table
+
+magicui
+https://magicui.design/
+
+
+Aceternity ui
+https://ui.aceternity.com/
